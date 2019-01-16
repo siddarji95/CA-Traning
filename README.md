@@ -5,5 +5,5 @@
 <p><b>npm start</b></p>
 
 
-<p>Its a simple assesement with MVC model</P>
+<p>Its a simple assessment with MVC model</P>
 

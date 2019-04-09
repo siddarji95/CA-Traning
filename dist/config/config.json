@@ -1,0 +1,66 @@
+{
+	"courseStructure": {
+		"screens": [
+			{
+				"name": "screen_1",
+				"className": "MCSS"
+			},
+			{
+				"name": "screen_2",
+				"className": "MCMS"
+			},
+			{
+				"name": "screen_3",
+				"className": "MCSS"
+			},
+			{
+				"name": "screen_4",
+				"className": "Result"
+			}
+		]
+	},
+	"screen_1":{
+		"activityData": {
+			"heading": {
+				"width": "550px",
+				"height": ""
+			},
+			"subHeading": {
+				"width": "643px"
+			}
+		}
+	},
+	"screen_2":{
+		"activityData": {
+			"heading": {
+				"width": "550px",
+				"height": ""
+			},
+			"subHeading": {
+				"width": "643px"
+			}
+		}
+	},
+	"screen_3":{
+		"activityData": {
+			"heading": {
+				"width": "550px",
+				"height": ""
+			},
+			"subHeading": {
+				"width": "643px"
+			}
+		}
+	},
+	"screen_4":{
+		"activityData": {
+			"heading": {
+				"width": "550px",
+				"height": ""
+			},
+			"subHeading": {
+				"width": "643px"
+			}
+		}
+	}
+}

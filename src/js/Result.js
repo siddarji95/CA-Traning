@@ -1,4 +1,4 @@
-import {EventBus} from './EventBus';
+import * as EventBus from 'eventbusjs'
 class Result {
   constructor() {
     console.log("Result class constructor");

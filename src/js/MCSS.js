@@ -1,4 +1,4 @@
-import {EventBus} from './EventBus';
+import * as EventBus from 'eventbusjs'
 class MCSS {
   constructor() {
      console.log("MCSS class constructor");

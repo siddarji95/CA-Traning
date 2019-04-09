@@ -1,0 +1,29 @@
+{
+  "heading": "Assessment",
+  "subHeading": "Take a moment to check your knowledge about course.<br>Minimum 75% is required to pass the test.",
+  "screen_1":{
+    "quizObj" : {
+      "desc":"How many months do we have in a year?",
+      "options":["12 months","10 months","14 months"],
+      "correctAns":["12 months"]
+    }
+  },
+  "screen_2":{
+    "quizObj" : {
+      "desc":"How many days do we have in February?",
+      "options":["28 days","29 days","30 days"],
+      "correctAns":["28 days","29 days"]
+    }
+  },
+  "screen_3":{
+    "quizObj" : {
+      "desc":"How much water is there on Earth?",
+      "options":["43%","90%","71%"],
+      "correctAns":["71%"]
+
+    }
+  },
+  "screen_4":{
+    "heading": "Result"
+  }
+}

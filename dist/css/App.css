@@ -1,0 +1,184 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    color: #4b4e4f;
+    vertical-align: baseline;
+    background: transparent;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+p{
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+button {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    background-color: #489fd4;
+    color: #ffffff;
+    padding: 14px 24px 14px 24px;
+    text-decoration: none;
+    text-align: center;
+    border: 0px solid #489fd4;
+    -webkit-transition: background-color 0.25s ease-in, color 0.25s ease-in, border-color 0.25s ease-in;
+    -moz-transition: background-color 0.25s ease-in, color 0.25s ease-in, border-color 0.25s ease-in;
+    -ms-transition: background-color 0.25s ease-in, color 0.25s ease-in, border-color 0.25s ease-in;
+    transition: background-color 0.25s ease-in, color 0.25s ease-in, border-color 0.25s ease-in;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 140%;
+    width: 140px;
+    margin: 5px 0 5px 0;
+    padding: 10px 24px 10px 24px;
+    cursor: pointer;
+
+}
+button:hover{
+      background-color: #0f2e41;
+      color: #ffffff;
+      border-color: #0f2e41;
+}
+img{
+  max-width: 100%;
+}
+
+.main_wrapper{
+   max-width: 900px;
+   margin: auto;
+   padding: 40px 0 40px;
+}
+
+.buttonDiv{
+  display: table-cell;
+  padding-right: 62px;
+}
+
+.context{
+  margin-left: 10%;
+}
+
+.circleDiv{
+  width: 20px;
+    height: 20px;
+    -moz-border-radius: 50px/50px;
+    -webkit-border-radius: 30px 30px;
+    background-color: transparent;
+    border-radius: 20px/20px;
+    border: solid 3px white;
+    margin: 5px;
+    float: left;
+}
+.circle{
+  width: 10px;
+  height: 10px;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  margin: 5px auto;
+  display: none;
+}
+.boxDiv{
+  width: 20px;
+    height: 20px;
+    background-color: transparent;
+    border: solid 3px white;
+    margin: 5px;
+    float: left;
+}
+.box{
+  width: 10px;
+  height: 10px;
+  background-color: #FFFFFF;
+  margin: 5px auto;
+  display: none;
+}
+.component-left {
+    width: 50%;
+    float: none;
+}
+.contentHeading{
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 68px;
+}
+.heading{
+    margin-bottom: 20px;
+    color: #489fd4;
+    text-align: left;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 120%;
+}
+.subHeading{
+  color: #000000;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.mcqItem{
+   background-color: #489fd4;
+   cursor: pointer;
+   color: #FFFFFF;
+
+}
+.mcqItem:hover{
+  background-color: #236993;
+
+}
+.disabled{
+  background-color: #727272;
+
+}
+
+.selected{
+  background-color: #236993
+}
+.checkBox{
+        background-color: #ffffff;
+    position: absolute;
+    border-radius: 50%;
+    text-decoration: none;
+    left: 10px;
+    width: 24px;
+    height: 24px;
+    top: 50%;
+    margin-top: -12px;
+
+}
+.mcqContent{
+        padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 44px;
+    margin-bottom: 5px;
+}
+
+.submitButtonDiv{
+        margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.submitAssessmentDiv{
+  display: table-cell;
+  padding-right: 62px;
+}
+.submitAssessment{
+width: 250px
+}
+.submitButton{
+    width: 100%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 140%;
+
+}
+.submitButton:hover{
+    background-color: #0f2e41;
+    color: #ffffff;
+    border-color: #0f2e41;
+    transition: background-color 0.25s ease-in, color 0.25s ease-in, border-color 0.25s ease-in;
+}
+.contentDesc{
+  color: #000000;
+}

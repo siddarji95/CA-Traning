@@ -30,7 +30,7 @@ class Model {
     return this.assessmentUserData.totalScore;
   }
   getCourseData(callback) {
-    $.getJSON("../config/config.json", (_data) => {
+    $.getJSON("config/config.json", (_data) => {
     }).done((_data) => {
       callback(_data);
     }).fail(()=>{
@@ -39,7 +39,7 @@ class Model {
 
   }
   getTextData(callback) {
-    $.getJSON("../config/text.json", (_data) => {
+    $.getJSON("config/text.json", (_data) => {
     }).done((_data) => {
       callback(_data);
     }).fail(()=>{

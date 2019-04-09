@@ -3,7 +3,7 @@
 <p>https://siddarji95.github.io/CA-Traning/</p>
 <h3>Fork the repository and do the following simple steps</h3>
 <p><b>npm install</b></p>
-<p><b>npm start</b></p>
+<p><b>npm run dev</b></p>
 
 
 <p>Its a simple assessment with MVC model</P>

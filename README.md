@@ -1,4 +1,4 @@
-<h1>Simple assesment using MVC model</h1>
+<h1>Simple assessment using MVC model</h1>
 
 <h3>Fork the repository and do the following simple steps</h3>
 <p><b>npm install</b></p>
